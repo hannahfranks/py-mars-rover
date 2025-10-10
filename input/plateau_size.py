@@ -1,0 +1,2 @@
+class PlateauSize:
+    pass 

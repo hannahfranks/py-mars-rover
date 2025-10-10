@@ -1,0 +1,2 @@
+class PlateauParser:
+    pass 
